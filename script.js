@@ -31,5 +31,5 @@ document.getElementById("secretButton").addEventListener("click", () => {
   note.hidden = !note.hidden;
   document.getElementById("secretButton").textContent = note.hidden
     ? "A tiny secret for Bauni Badmash ♡"
-    : "One last thing, my Bauni ♡";
+    : "One last thing, Baccha ♡";
 });
